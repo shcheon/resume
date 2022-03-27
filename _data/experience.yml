@@ -5,10 +5,9 @@
   duration: 2018.07 &mdash; Present
   summary: Cello Sqaure 풀필먼트 서비스 개발/운영
     <ul>
-    <li>Sqaure 풀필먼트 서비스 FrontEnd / Backend 개발/운영</li>
-    <li>Sqaure 풀필먼트 서비스 FrontEnd / Backend 비즈니스 로직 문의 대응</li>
-    <li>Sqaure 풀필먼트 서비스 운영용 Admin용 FrontEnd / Backend 유지보수 </li>
-    <li>사용 기술 &#58; Vue.js, Node.js, AWS, PostgreSQL </li>
+    <li>Sqaure 풀필먼트 서비스 Frontend / Backend 개발/운영</li>
+    <li>Sqaure 풀필먼트 서비스 Frontend / Backend 비즈니스 로직 문의 대응</li>
+    <li>Sqaure 풀필먼트 서비스 운영용 Admin용 Frontend / Backend 유지보수 </li>
     </ul>
     삼성전자 반도체 Factory Planning IT서비스 운영/유지보수
     <ul>
@@ -16,22 +15,19 @@
     <li>Factory Planning 시뮬레이션 비즈니스 로직 개발 </li>
     <li>Factory Planning 시뮬레이션 결과 데이터 문의 분석 대응</li>
     <li>Factory Planning Web UI 유지보수</li>
-    <li>사용 기술 &#58; Oracle Database, PL/SQL, Java, SpringFramework, JSP, Javascript, C#, WebLogic, MOZART Framework </li>
     </ul>
 
 # Director of Digital Stratgy
 - company: Suresoft
   position: 전임연구원
   duration: 2017.07 &mdash; 2018.07
-  summary: PROV for Android 솔루션 개발/유지보수 (안드로이드 메모리 누수 검출 모듈 담당)
+  summary: 메모리 누수 검출 솔루션 개발/유지보수
     <ul>
-    <li>Native Process에서 발생하는 메모리 누수 검출 모듈 개발/유지보수</li>
-    <li>메모리 누수 로그 수집용 안드로이드 App 개발/유지보수</li>
-    <li>사용 기술 &#58; Java, C++, Android SDK/PDK/NDK </li>
+    <li>솔루션 개발/운영/패키징/고객문의대응 업무 수행 </li>
     </ul>
-    VISTA 솔루션 개발/유지보수 (화면인식 모듈 담당)
+    인포테인먼트 장비 UI 테스팅 도구 개발/유지보수
     <ul>
-    <li>인포테인먼트 화면 데이터 수집 모듈 개발/유지보수</li>
+    <li>솔루션 개발/운영/패키징/고객문의대응 업무 수행</li>
     <li>인포테인먼트 화면 영상인식 용 딥러닝 모델 연구 및 조사</li>
     <li>사용 기술 &#58; Java, C++, Android PDK, Android Debug Bridge </li>
     </ul>
