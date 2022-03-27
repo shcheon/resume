@@ -1,13 +1,28 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: 석사, 항공우주공학전공
+  uni: 경상대학교
+  year: 2015.03 &mdash; 2017.02
+  summary: 영상인식 알고리즘을 연구하며, 무인비행체의 자율비행에 적용하기 위한 시스템에 관하여 연구/개발을 수행하였습니다.
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - content: S.H. Cheon, I.K. Eom, S.W. Ha, Y.H. Moon, “An enhanced SURF algorithm based on new interest point detection procedure and fast computation technique”, Journal of Real-Time Image Processing, June. 2016. (SCIE)
+      link: https://dl.acm.org/doi/abs/10.1007/s11554-016-0614-y
+    - content: S.H. Cheon, I.K. Eom, Y.H. Moon, “Fast descriptor extraction method for a SURF-based interest point”, Electronics Letters, vol.52, Issue 4, pp.274-275, Feb. 2016. (SCI)
+      link: https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/el.2015.3055
+    - content: S.H. Cheon, S.W. Ha, Y.H. Moon, “Hardware In-the-Loop Simulation Platform for Image-based Object Tracking Method using Small UAV”, The 35th IEEE Digital Avionics System Conference, Sep. 2016
+      link: https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/el.2015.3055
+    - content: 문용호, 천승현, 하석운, “이동보안시스템에서 폐색영역에서의 소형무인비행체 위치 및 방향 추적”, 대한임베디드공학회, 제 10권 제5호 2015년 10월
+      link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002043955
+    - content: 컬러기반 추적 비행 테스트 영상보기
+      link: https://www.youtube.com/watch?v=rUZeQo1Jiss
+    - content: 객체인식기반 추적 비행 테스트 영상보기
+      link: https://www.youtube.com/watch?v=wVBL-0HvnYU
+    - content: 객체인식기반 추적 비행 시뮬레이션 영상보기
+      link: https://www.youtube.com/watch?v=pxsQ5IP9HO4
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: 학사, 정보과학과
+  uni: 경상대학교
+  year: 2008.03 &mdash; 2015.02
+  summary: 자료구조/운영체제/네트워크/프로그래밍언어 뿐만 아니라 Embedded Software 개발에 필요한 신호처리/패턴인식/영상처리에 관한 기본 소양을 학습하였습니다.
+  awards:
+    - content: 재능기부 S/W 챌린지 우수상 (2012.11.28)
+    - content: 캔위성 경연대회 장려상 (2012.09.06)
