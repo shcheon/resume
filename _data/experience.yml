@@ -1,19 +1,37 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: 삼성SDS
+  position: Sofeware Engineer
+  duration: 2018.07 &mdash; Present
+  summary: Cello Sqaure 풀필먼트 서비스 개발/운영
+    <ul>
+    <li>Sqaure 풀필먼트 서비스 FrontEnd / Backend 개발/운영</li>
+    <li>Sqaure 풀필먼트 서비스 FrontEnd / Backend 비즈니스 로직 문의 대응</li>
+    <li>Sqaure 풀필먼트 서비스 운영용 Admin용 FrontEnd / Backend 유지보수 </li>
+    <li>사용 기술 &#58; Vue.js, Node.js, AWS, PostgreSQL </li>
+    </ul>
+    삼성전자 반도체 Factory Planning IT서비스 운영/유지보수
+    <ul>
+    <li>Factory Planning 기준정보 데이터 관리 (DB Schema유지보수, SQL튜닝, 데이터 클린징) </li>
+    <li>Factory Planning 시뮬레이션 비즈니스 로직 개발 </li>
+    <li>Factory Planning 시뮬레이션 결과 데이터 문의 분석 대응</li>
+    <li>Factory Planning Web UI 유지보수</li>
+    <li>사용 기술 &#58; Oracle Database, PL/SQL, Java, SpringFramework, JSP, Javascript, C#, WebLogic, MOZART Framework </li>
+    </ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Suresoft
+  position: 전임연구원
+  duration: 2017.07 &mdash; 2018.07
+  summary: PROV for Android 솔루션 개발/유지보수 (안드로이드 메모리 누수 검출 모듈 담당)
+    <ul>
+    <li>Native Process에서 발생하는 메모리 누수 검출 모듈 개발/유지보수</li>
+    <li>메모리 누수 로그 수집용 안드로이드 App 개발/유지보수</li>
+    <li>사용 기술 &#58; Java, C++, Android SDK/PDK/NDK </li>
+    </ul>
+    VISTA 솔루션 개발/유지보수 (화면인식 모듈 담당)
+    <ul>
+    <li>인포테인먼트 화면 데이터 수집 모듈 개발/유지보수</li>
+    <li>인포테인먼트 화면 영상인식 용 딥러닝 모델 연구 및 조사</li>
+    <li>사용 기술 &#58; Java, C++, Android PDK, Android Debug Bridge </li>
+    </ul>
