@@ -1,6 +1,6 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-- project: 삼성SDS - 쿠팡차이나 직구 풀필먼트 서비스 개발.
+- project: 삼성SDS - 쿠팡차이나 직구 풀필먼트 서비스 개발
   role: Frontend & Backend Developer
   duration: 2022.03 &mdash; Present
   description: 중국 웨이하이에 위치한 물건을 한국 소비자가 직접 구매할 수 있도록, 물류IT 서비스를 SDS가 쿠팡에게 제공하는 과제에 참여.
@@ -8,7 +8,7 @@
               <li>개인통관고유번호 유효성 검증을 위한 API 개발</li>
               <li>개인통관고유번호 관리를 위한 화면 개발</li>
               <li>실행사로부터 물류 트래킹/주문마스터정보 수집 API 개발</li>
-              <li>쿠팡차이나-Sqaure API 연계 개발</li>
+              <li>쿠팡차이나-Square API 연계 개발</li>
               <li>외부 시스템 간 데이터 연계 및 저장을 위한 데이터 구조 분석</li>
               <li>사용 기술 &#58; Vue.js, Node.js, AWS, PostgreSQL</li>
               </ul>
@@ -22,7 +22,7 @@
               <li> 생산 납기 준수를 위한 일정 수립 로직 개발/유지보수 </li>
               <li> 공장에서 작업중인 작업물을 납기가 임박한 주문용으로 지정해주는 로직 개발/유지보수</li>
               <li> 일 생산 계획 시뮬레이션 로직 개발/유지보수</li>
-              <li> 일 생산 계획 시뮬레이션 결과 데이터 전송 방식 Batch 전송으로 개선 </li>
+              <li> 일 생산 계획 시뮬레이션 결과 데이터 Batch 전송으로 개선 </li>
               <li> Factory Planning UI에 출력되는 데이터 생성 로직 결과 분석 및 현업문의 대응 </li>
               <li>사용 기술 &#58; Oracle Database, PL/SQL, Java, SpringFramework, JSP, Javascript, C#, WebLogic, MOZART Framework </li>
               </ul>
